@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/LandingSideProjectOne/static/css/main.fab8896c.chunk.css",
+    "main.js": "/LandingSideProjectOne/static/js/main.e29961df.chunk.js",
+    "main.js.map": "/LandingSideProjectOne/static/js/main.e29961df.chunk.js.map",
+    "runtime~main.js": "/LandingSideProjectOne/static/js/runtime~main.1a2a65c9.js",
+    "runtime~main.js.map": "/LandingSideProjectOne/static/js/runtime~main.1a2a65c9.js.map",
+    "static/css/2.44741ecb.chunk.css": "/LandingSideProjectOne/static/css/2.44741ecb.chunk.css",
+    "static/js/2.b73dd311.chunk.js": "/LandingSideProjectOne/static/js/2.b73dd311.chunk.js",
+    "static/js/2.b73dd311.chunk.js.map": "/LandingSideProjectOne/static/js/2.b73dd311.chunk.js.map",
+    "index.html": "/LandingSideProjectOne/index.html",
+    "precache-manifest.ae29cf06fc22bc32c9983ca4bcbd29b2.js": "/LandingSideProjectOne/precache-manifest.ae29cf06fc22bc32c9983ca4bcbd29b2.js",
+    "service-worker.js": "/LandingSideProjectOne/service-worker.js",
+    "static/css/2.44741ecb.chunk.css.map": "/LandingSideProjectOne/static/css/2.44741ecb.chunk.css.map",
+    "static/css/main.fab8896c.chunk.css.map": "/LandingSideProjectOne/static/css/main.fab8896c.chunk.css.map",
+    "static/media/kv.png": "/LandingSideProjectOne/static/media/kv.6af1284a.png"
+  }
+}
